@@ -1,0 +1,20 @@
+{
+  "name": "space-doitsu-no-tori-API",
+  "version": "0.0.1",
+  "description": "Image API",
+  "scripts": {
+  	"start": "./node_modules/.bin/lsc app.ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ikr7",
+  "license": "WTFPL",
+  "dependencies": {
+    "canvas": "~1.1.6",
+    "express": "~4.9.5",
+    "LiveScript": "^1.3.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "tori"
+  ]
+}
