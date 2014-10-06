@@ -3,6 +3,7 @@ To install:
 
 ```sh
 % git clone git@github.com:ikr7/space-doitsu-no-tori-API.git  
+% cd space-doitsu-no-tori-API/
 % npm install
 ```
 
@@ -12,5 +13,5 @@ To launch:
 % npm start
 ```
 
-Requirements
+Requirements: 
 - cairo
